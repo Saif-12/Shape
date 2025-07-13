@@ -2,7 +2,7 @@ public class Shape
 {
     public static void main(String args[])
     {
-        System.out.println("Shape");
+        System.out.println("Shapesdfghgi");
     }
     public void show()
     {
