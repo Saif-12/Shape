@@ -8,4 +8,13 @@ public class Shape
     {
         System.out.println("Show world");
     }
+
+    public void display()
+    {
+        System.out.println(2+2);
+    }
+    public void mul()
+    {
+        System.out.println(2*2);
+    }
 }
