@@ -4,4 +4,8 @@ public class Shape
     {
         System.out.println("Shape");
     }
+    public void show()
+    {
+        System.out.println("Show world");
+    }
 }
